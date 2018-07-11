@@ -13,7 +13,7 @@
         android:layout_height="74dp"
         android:layout_marginLeft="100dp"
         android:layout_marginTop="120dp"
-        android:text="Hola"
+        android:text="Hola mamis chula"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="@+id/constraintLayout"
         tools:ignore="HardcodedText"
