@@ -2,9 +2,6 @@ package com.example.jannada.ceol;
 
 
 import android.app.Activity;
-import android.app.ActionBar;
-import android.app.FragmentTransaction;
-
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.support.v13.app.FragmentPagerAdapter;
@@ -133,6 +130,7 @@ public class Main2Activity extends Activity {
 
         @Override
         public CharSequence getPageTitle(int position) {
+
             switch (position) {
                 case 0:
                     return "SECTION 1";
